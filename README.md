@@ -1,30 +1,20 @@
 # Data Analytics Portfolio
 
-Здесь собраны учебные и практические проекты по аналитике данных.
+Здесь собраны мои учебные проекты по аналитике данных.
 
 ## BI-проекты
 
 ### Аналитический отчет для компании по производству и продаже электроники
-Power BI
-
-[Открыть дашборд](https://app.powerbi.com/view?r=eyJrIjoiMmM0NDVjN2YtOTA5NC00ODAwLTgzMTUtMzFiMDE4NmMzYWRjIiwidCI6IjZlZWVhZjNlLTY3MTItNDhhNC05NzY3LTNmY2E1NGUxMTc1YyIsImMiOjl9&pageName=38deef50af4038848227)
-
-Анализ продаж, маржинальности, клиентов, магазинов и операционных показателей.
+Power BI — [Открыть дашборд](https://app.powerbi.com/view?r=eyJrIjoiMmM0NDVjN2YtOTA5NC00ODAwLTgzMTUtMzFiMDE4NmMzYWRjIiwidCI6IjZlZWVhZjNlLTY3MTItNDhhNC05NzY3LTNmY2E1NGUxMTc1YyIsImMiOjl9&pageName=38deef50af4038848227)
 
 ### Дашборд для агентства недвижимости
-Yandex DataLens
-
-[Открыть дашборд](https://datalens.yandex/ubtkkn719okif)
+Yandex DataLens — [Открыть дашборд](https://datalens.yandex/ubtkkn719okif)
 
 ### Анализ проведенных TED-конференций
-Yandex DataLens
-
-[Открыть дашборд](https://datalens.yandex/fulaonv1jsz40)
+Yandex DataLens — [Открыть дашборд](https://datalens.yandex/fulaonv1jsz40)
 
 ### Дашборд для сервиса доставки еды
-Yandex DataLens
-
-[Открыть дашборд](https://datalens.yandex/dasyjlclwhzyx)
+Yandex DataLens — [Открыть дашборд](https://datalens.yandex/dasyjlclwhzyx)
 
 ## SQL
 
@@ -37,7 +27,3 @@ Yandex DataLens
 Практические работы и анализ данных в Jupyter Notebook.
 
 [Перейти к Jupyter Notebook](./JupyterNotebook)
-
-## Инструменты
-
-SQL, Python, Power BI, DAX, Yandex DataLens
