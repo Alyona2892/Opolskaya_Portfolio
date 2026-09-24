@@ -1,55 +1,43 @@
 # Data Analytics Portfolio
 
-Примеры моих учебных проектов и практических работ в области аналитики
-данных.
+Здесь собраны учебные и практические проекты по аналитике данных.
 
-## 📊 BI-проекты
+## BI-проекты
 
-### 1. Аналитический отчёт для компании по производству и продаже электроники
+### Аналитический отчет для компании по производству и продаже электроники
+Power BI
 
-**Power BI**
+[Открыть дашборд](https://app.powerbi.com/view?r=eyJrIjoiMmM0NDVjN2YtOTA5NC00ODAwLTgzMTUtMzFiMDE4NmMzYWRjIiwidCI6IjZlZWVhZjNlLTY3MTItNDhhNC05NzY3LTNmY2E1NGUxMTc1YyIsImMiOjl9&pageName=38deef50af4038848227)
 
-[Открыть
-дашборд](https://app.powerbi.com/view?r=eyJrIjoiMmM0NDViNiI2OTAtNCO0DAwLTgzMTUtMzFjNDFmNmYzYWYyZWIiwidCI6IjZlZWVhZjNlLTY3MTItNDhhNC05NzY3LTNmY2E1NGUxMTc1NyIsImMiOjJ9&pageName=38deef50af4038848227)
+Анализ продаж, маржинальности, клиентов, магазинов и операционных показателей.
 
-Проект включает анализ продаж, маржинальности, клиентов, магазинов и
-операционных показателей.
+### Дашборд для агентства недвижимости
+Yandex DataLens
 
-### 2. Дашборд для агентства недвижимости
+[Открыть дашборд](https://datalens.yandex/ubtkkn719okif)
 
-**Yandex DataLens**
-
-[Открыть дашборд](https://datalens.yandex/ubtkkfn719okif)
-
-### 3. Анализ проведённых TED-конференций
-
-**Yandex DataLens**
+### Анализ проведенных TED-конференций
+Yandex DataLens
 
 [Открыть дашборд](https://datalens.yandex/fulaonv1jsz40)
 
-### 4. Дашборд для сервиса доставки еды
-
-**Yandex DataLens**
+### Дашборд для сервиса доставки еды
+Yandex DataLens
 
 [Открыть дашборд](https://datalens.yandex/dasyjlclwhzyx)
 
-## 💻 SQL
+## SQL
 
 Практические задачи и аналитические запросы на SQL.
 
 [Перейти к SQL-проектам](./Ad%20hoc%20задачи%2C%20SQL)
 
-## 🐍 Python / Jupyter Notebook
+## Python
 
 Практические работы и анализ данных в Jupyter Notebook.
 
 [Перейти к Jupyter Notebook](./JupyterNotebook)
 
-## 🛠 Инструменты
+## Инструменты
 
--   SQL
--   Power BI
--   DAX
--   Yandex DataLens
--   Python
--   Jupyter Notebook
+SQL, Python, Power BI, DAX, Yandex DataLens
